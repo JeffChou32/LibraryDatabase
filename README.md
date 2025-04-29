@@ -16,3 +16,16 @@
 - Delete Books from the inventory
 - Approve/Reject Borrow Requests
 
+### Installation Instructions
+- Clone the repository or download the ZIP.
+- Start your XAMPP server (Apache and MySQL).
+
+Import the database:
+- Open phpMyAdmin.
+- Create a database named library_db.
+- Import the provided library_db.sql file into it.
+- Place the project folder inside your XAMPP htdocs directory.
+
+Open your browser and navigate to:
+
+http://localhost/[your_project_folder]/
